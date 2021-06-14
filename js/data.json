@@ -1,0 +1,26 @@
+[
+			{
+				name : "tushar",
+				age : 25,
+				mobile : 999965485,
+				email : "tushar@gmail.com"
+			},
+			{
+				name : "jatin",
+				age : 35,
+				mobile : 9854765485,
+				email : "jatin@gmail.com"
+			},
+			{
+				name : "sonu",
+				age : 21,
+				mobile : 9854747854,
+				email : "sonu@gmail.com"
+			},
+			{
+				name : "Monu",
+				age : 27,
+				mobile : 9855557854,
+				email : "monu@gmail.com"
+			}
+];
